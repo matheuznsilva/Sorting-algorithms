@@ -24,9 +24,3 @@
 | diferente, realize as modificações necessárias. |
 |                                                 |
 +-------------------------------------------------+
-
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> 41d6b20 (c2 - Add Sorting Algorithms)
